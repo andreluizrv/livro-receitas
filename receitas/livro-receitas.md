@@ -1,4 +1,5 @@
-#Strogonoff de frango
+# Strogonoff de frango
+## Receita simples para teste
 
     - 3 peitos de frango cortados em cubos
 
